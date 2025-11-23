@@ -1,0 +1,13 @@
+{
+  "name": "jbaff-static",
+  "version": "1.0.0",
+  "description": "JBAFF - Static HTML Site",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": ["static", "documentation"],
+  "author": "",
+  "license": "MIT"
+}
