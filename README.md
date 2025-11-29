@@ -1,8 +1,8 @@
-# JB-AI (Team Synvo) — Educational Research Demo
+# Project Pixels (Team Synvo) — Educational Research Demo
 
-**Project:** JB-AI  
-**Owner:** Team Synvo (Founder: Alex)  
-**Demo:** https://team-synvo.github.io/project-pixels
+**Project:** Project Pixels 
+**Owner:** Team Synvo (Founder: NEXO)  
+**Demo:** https://team-synvo.github.io/Project-Pixels
 
 ## Summary
 This repository hosts an educational research demonstration exploring how different regions may interact with AI model behavior. The project is intended for academic and technical study only — to help researchers and developers better understand model responses and regional variance in deployments.
@@ -21,4 +21,4 @@ This repository hosts an educational research demonstration exploring how differ
 Contributions that improve research quality, reproducibility, transparency, and safety are welcome. Please open PRs only if they follow the Project Code of Conduct and ethical guidelines in `CONDUCT.md`.
 
 ## Contact / Questions
-If you want to collaborate on ethical research, DM @alzz.tech or open an issue.
+If you want to collaborate on ethical research, DM @alzz.tech / a3x_yeh on tiktok or open an issue.
